@@ -9,9 +9,6 @@ void print_code(void)
 }
 
 /**
- * main - The main function.
- * return - The exit function.
- *
  * Main: The starting point of the program.
  * Return: 0 when exiting program.
  */
