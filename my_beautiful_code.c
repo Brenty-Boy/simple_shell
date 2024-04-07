@@ -9,7 +9,8 @@ void print_code(void)
 }
 
 /**
- * Main: The starting point of the program.
+ * main - starting point of the program.
+ *
  * Return: 0 when exiting program.
  */
 int main(void)
